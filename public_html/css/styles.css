@@ -1,0 +1,130 @@
+body{
+    margin: 0px;
+    width: 100vw;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    background-color: #ab5088;
+    padding-bottom: 100px;
+}
+
+header{
+    margin-top: 5vh;
+}
+
+main{
+    background-color: #6f006b;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 1em;
+}
+
+header > img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+h2{
+    text-align: center;
+    color: #f5cae0;
+}
+
+strong{
+    color: #f5cae0;
+}
+
+i{
+    color: #f5cae0;
+}
+
+table{
+    padding: 10px;
+    border: 1px solid #f5cae0;
+    border-radius: 1em;
+}
+
+
+th,td{
+    padding: 10px;
+    border: 1px solid #f5cae0;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.result{
+    color:aqua;
+}
+
+#create_form, #update_form{
+    display:flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    gap: 5px;
+    padding: 10px;
+    border: 1px solid #f5cae0;
+    border-radius: 1em;
+    color:#f5cae0;
+}
+
+input{
+    padding-top: 5px;
+    padding-bottom: 10px;
+    border-radius: 1em;
+    border: 1px solid #f5cae0;
+    background-color: #f5cae0 ;
+    text-align: center;
+    align-items: center;
+    font-size: large;
+}
+
+.center {
+    display: block;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+
+#create_form > button{
+    margin-top: 10px;
+    height: 40px;
+    border-radius: 1em;
+    border: 1px solid #f5cae0;
+    background-color: #f5cae0 ;
+    color: #6f006b;
+    font-size: larger;
+}
+
+#create_form > button > a{
+    text-decoration:  none;
+}
+
+#create_form > button > a:visited{
+    text-decoration:  none;
+    color: #6f006b;
+    font-size: larger;
+}
+
+#update_form > button{
+    margin-top: 10px;
+    height: 40px;
+    border-radius: 1em;
+    border: 1px solid #f5cae0;
+    background-color: #f5cae0 ;
+    color: #6f006b;
+    font-size: larger;
+}
+
+#update_form > button > a{
+    text-decoration:  none;
+}
+
+#update_form > button > a:visited{
+    text-decoration:  none;
+    color: #6f006b;
+    font-size: larger;
+}
