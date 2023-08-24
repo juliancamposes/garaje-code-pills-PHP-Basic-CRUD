@@ -4,7 +4,7 @@ Este proyecto corresponde al vídeo de la lista de reproducción de Code Pills d
 
 En este proyecto crearemos con CRUD (Create - Read - Update y Delete) con PHP y MySQL sin usar ningún framework ni librería.
 
-En los archivos tienes el ejemplo de la base de datos utilizada para el proyecto: [setup.sql](https://github.com/juliancamposes/garaje-code-pills-PHP-Basic-CRUD/blob/main/sql/setup.sql)
+En los archivos tienes el ejemplo de la base de datos utilizada para el proyecto en la carpeta sql/setup.sql
 
 
 ## Sobre Garaje de Ideas
